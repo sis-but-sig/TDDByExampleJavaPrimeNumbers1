@@ -1,6 +1,6 @@
 # TDDByExample in Java: PrimeNumbers 1
 
-### Check out the actual TDD journey <a href="https://www.youtube.com/watch?v=MvqrwFMobdc" target="_blank">here</a> ###
+### Check out the actual TDD journey [here](https://www.youtube.com/watch?v=MvqrwFMobdc){:target="_blank"} ###
 
 What can we learn from, after all, a simple prime number checking function?
 
