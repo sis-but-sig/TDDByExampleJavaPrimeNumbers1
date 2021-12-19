@@ -12,7 +12,7 @@ import org.junit.Test;
  * Negative numbers are not prime
  * 
  */
-public class GiveAPrimeNumbers {
+public class GivenAPrimeNumbers {
   @Test
   public void isPrimeShouldReturnFalseForNonPrimeNumbers() {
     assertFalse(PrimeNumbers.isPrime(-10));
